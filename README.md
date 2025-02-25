@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Nahashon-Luyemba
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning website development
+- 💞️ I’m looking to collaborate on various projects for a fruitful coding journey
+- 📫 How to reach me :luyemban@gmail.com
+- 😄 Pronouns: He
+- ⚡ Fun fact: “I tell my code ‘I love you’ sometimes, hoping it will finally run without errors.”😆
+-             :“The Apollo 11 guidance computer had less processing power than a modern toaster… yet it landed humans on the moon.” 🚀
+
+<!---
+Nahashon-Luyemba/Nahashon-Luyemba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
