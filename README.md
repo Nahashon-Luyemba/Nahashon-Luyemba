@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nahashon-Luyemba
 - 👀 Enthusiast in software development
-- 🌱 I’m currently learning Modern AI 
+- 🌱 I’m currently learning Modern AI .
   Also Got proficiency in C language and HTML
 - 💞️ I’m looking to collaborate on various projects for a fruitful coding journey
 - 📫 How to reach me :luyemban@gmail.com
